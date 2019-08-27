@@ -8,6 +8,23 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim eu turpis egestas pretium aenean. Dis parturient montes nascetur ridiculus mus mauris vitae. Duis ultricies lacus sed turpis tincidunt id aliquet. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
 </p>
 
+  - [EXPERIENCE](#experience)
+    - [**Company,** Location — *Job Title*](#company-location--job-title)
+  - [EDUCATION](#education)
+  - [PROJECTS](#projects)
+    - [**Project Name**](#project-name)
+  - [SKILLS](#skills)
+    - [FRONTEND](#frontend)
+    - [BACKEND](#backend)
+    - [PROGRAMMING LANGUAGES](#programming-languages)
+  - [AWARDS/ACHIEVEMENTS](#awardsachievements)
+    - [*Award Title*](#award-title)
+  - [CERTIFICATIONS](#certifications)
+    - [*Title*](#title)
+  - [LANGUAGES](#languages)
+  - [SOCIAL LINKS](#social-links)
+  - [CONTACT ME](#contact-me)
+  
 ## EXPERIENCE
 
 ### **Company,** Location — *Job Title*
@@ -71,7 +88,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Hindi
 * French
 
-## CONTACT DETAILS
+## SOCIAL LINKS
+
+* [Twitter](https:/www.twitter.com/)
+* [Github](https:/www.github.com/)
+* [Linkedin](https:/www.linkedin.com/)
+
+## CONTACT ME
 
 * [ADDRESS GOES HERE](https://maps.google.com)
 * +911234567890
